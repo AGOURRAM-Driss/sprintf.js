@@ -16,7 +16,7 @@
     "license": "BSD-3-Clause",
     "readmeFilename": "README.md",
     "devDependencies": {
-            "eslint": "1.10.3",
+        "eslint": "1.10.3",
         "mocha": "*",
         "grunt": "*",
         "grunt-contrib-watch": "*",
